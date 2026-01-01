@@ -57,7 +57,7 @@ const About = () => {
                   <h3 className="font-semibold text-foreground mb-1">Education</h3>
                   <p className="text-muted-foreground text-sm">BSc. Computer Engineering</p>
                   <p className="text-muted-foreground text-sm">University of Sri Jayewardenepura</p>
-                  <p className="text-primary font-mono text-sm mt-1">GPA: 3.7</p>
+                  <p className="text-primary font-mono text-sm mt-1">GPA: 3.67</p>
                 </div>
               </div>
             </div>
