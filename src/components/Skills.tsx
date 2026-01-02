@@ -1,11 +1,15 @@
 const skillCategories = [
   {
     title: 'Programming Languages',
-    skills: ['C++', 'Java', 'JavaScript', 'Python'],
+    skills: ['C++', 'Java', 'JavaScript', 'Python','C'],
   },
   {
     title: 'Frontend',
     skills: ['React', 'HTML', 'CSS', 'Bootstrap'],
+  },
+  {
+    title: 'Tools & Technologies',
+    skills: ['Git', 'GitHub', 'VS Code','Cisco Packet Tracer', 'Android Studio', 'Postman','Weka', 'Apache Netbeans', 'Apache XAMPP','Figma','IntelliJ IDEA'],
   },
   {
   title: 'Backend',
@@ -23,10 +27,7 @@ const skillCategories = [
     title: 'Databases',
     skills: [ 'MySQL', 'Firebase'],
   },
-  {
-    title: 'Tools & Technologies',
-    skills: ['Git', 'GitHub', 'VS Code'],
-  },
+  
 ];
 
 const Skills = () => {

@@ -6,7 +6,7 @@ const projects = [
   {
     title: 'budgetmate',
     subtitle: 'Financial Tracking App',
-  description: 'A mobile app that tracks expenses automatically by detecting transactions from messages and categorizing them using NLP and regex patterns. Includes cloud-based storage and a user-friendly interface for real-time budget management.',
+     description: 'A smart budgeting mobile app that automatically detects transactions from messages using NLP and regex, supports manual income/expense entry, budget planning, reminders, receipt scanning, visual analytics, secure authentication, and cloud-based storage for real-time financial tracking.',
   techStack: ['React Native', 'Expo', 'Firebase','JavaScript'],
     github: 'https://github.com/Geethmilajayasooriya/budgetmate',
     icon: Users,
@@ -16,7 +16,7 @@ const projects = [
   {
     title: 'Cloud-Based Note-Taking App',
   subtitle: 'Personal & Collaborative Note Management',
-  description: 'A web and mobile app that allows users to create, edit, and store notes in the cloud. Features real-time synchronization, secure storage, and an intuitive user interface for easy note management.',
+  description: 'A  mobile app that allows users to create, edit,delete and store notes in the cloud. Features real-time synchronization, secure storage, and an intuitive user interface for easy note management.',
   techStack: ['React Native', 'Firebase', 'Expo','JavaScript'],
     github: 'https://github.com/Geethmilajayasooriya/note_taking_web_app',
     icon: Users,
@@ -27,7 +27,7 @@ const projects = [
   icon: Users,
   title: 'Student Management System',
   subtitle: 'Full-Stack Student Data Management',
-  description: 'StuManage is a full-stack application built with Spring Boot (Java) for the backend and React.js for the frontend. It allows administrators to add, edit, view, and delete student data including names, contact information, department, and status. The app features a responsive and intuitive interface for easy management of student records.',
+  description: 'LMS is a full-stack application built with Spring Boot (Java) for the backend and React.js for the frontend. It allows administrators to add, edit, view, and delete student data including names, contact information, department, and status. The app features a responsive and intuitive interface for easy management of student records.',
   techStack: [
     'React.js', 
     'Axios', 
@@ -78,7 +78,7 @@ const projects = [
 
 {
   icon: Users,
-  title: 'Heart Disease Risk Predictor',
+  title: 'CardioMate',
   subtitle: 'Web App for Predicting Heart Disease Risk',
   description: 'A web-based application that estimates heart disease risk using a machine learning regression model. Users can input patient details such as age, gender, cholesterol, blood pressure, diabetes, smoking, and medication. The app provides a professional and responsive UI, predicts risk percentages in real-time via Flask, and displays results on a separate results page.',
   techStack: ['Python', 'Flask', 'scikit-learn', 'NumPy', 'Bootstrap 5', 'HTML', 'CSS', 'Joblib'],
