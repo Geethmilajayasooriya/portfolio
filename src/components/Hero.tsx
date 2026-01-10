@@ -25,7 +25,7 @@ const Hero = () => {
           {/* Profile Photo */}
           <div className="mb-8 animate-fade-up">
             <div className="relative inline-block">
-              {/* Soft light halo so light profile photos pop against dark bg */}
+              
               <div className="absolute -inset-3 rounded-full bg-white/6 blur-3xl -z-10" />
 
               <div className="w-40 h-40 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-primary/30 shadow-glow mx-auto">
