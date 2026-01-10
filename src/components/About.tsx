@@ -46,7 +46,7 @@ const About = () => {
             </div>
           </div>
 
-          {/* Info Cards - Full Width Below */}
+          
           <div className="grid md:grid-cols-3 gap-4 mt-12">
             <div className="p-6 rounded-xl bg-gradient-card border border-border card-hover">
               <div className="flex items-start gap-4">
